@@ -5,3 +5,7 @@
 ```bash
   echo "Hello World"
 ```
+
+```python
+  print("Hello World")
+```
