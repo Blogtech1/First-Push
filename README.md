@@ -1,5 +1,7 @@
 # This the Readme file of the Application
 
+![Static Badge](https://img.shields.io/badge/gogota-orange)
+
 [Website](https://github.com/Blogtech1)
 
 ```bash
