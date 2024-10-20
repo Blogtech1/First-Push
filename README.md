@@ -8,6 +8,10 @@
   echo "Hello World"
 ```
 
+```bash
+  grep "ERROR" /opt/splunk/var/log/splunk/splunkd.log
+```
+
 ```python
   print("Hello World")
 ```
